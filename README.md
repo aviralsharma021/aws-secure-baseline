@@ -23,7 +23,7 @@ IAM, KMS signing, immutable storage, and audit logging — grounded in
 this kind of compliance evidence for enterprise clients.
 
 ## Architecture
-[diagram placeholder — add once built]
+[diagram placeholder — yet to add]
 
 ## Status
 Work in progress — built incrementally as part of a 12-week AWS Security
