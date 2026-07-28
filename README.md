@@ -26,5 +26,5 @@ this kind of compliance evidence for enterprise clients.
 [diagram placeholder — yet to add]
 
 ## Status
-Work in progress — built incrementally as part of a 12-week AWS Security
+Work in progress — built incrementally as part of a 12/14-week AWS Security
 Specialty study plan. See commit history for build progression.
