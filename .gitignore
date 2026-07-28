@@ -46,6 +46,12 @@ terraform.rc
 *.pem
 *.key
 
+# Python 
+__pycache__/
+*.pyc
+.venv/
+venv/
+
 # Secrets / env
 .env
 .env.*
