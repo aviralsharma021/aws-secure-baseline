@@ -40,5 +40,21 @@ terraform.rc
 # *.dot
 
 # Optional: ignore plan files saved before destroying Terraform configuration
+
+# AWS
+.aws/
+*.pem
+*.key
+
+# Secrets / env
+.env
+.env.*
+*.secret
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
+
 # Uncomment the line below if you want to ignore planout files.
 # planout
