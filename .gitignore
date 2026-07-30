@@ -47,10 +47,15 @@ terraform.rc
 *.key
 
 # Python 
+__pycache__
 __pycache__/
+.pytest_cache
 *.pyc
+.venv
 .venv/
 venv/
+*.swp
+*.egg-info
 
 # Secrets / env
 .env
@@ -61,6 +66,10 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
 
 # Uncomment the line below if you want to ignore planout files.
 # planout
